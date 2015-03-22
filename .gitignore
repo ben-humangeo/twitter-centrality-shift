@@ -1,0 +1,30 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+**/target/**
+# node.js
+node_modules
+npm-debug.log
+
+# Vim
+*~
+*.swp
+*.class
+*.jar
+*.war
+
+# Project
